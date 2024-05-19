@@ -40,10 +40,15 @@ The following Python libraries are required to run the code:
 Here are some common visualizations used in Exploratory Data Analysis (EDA):
 
 Scatter Plot
+
 Line Chart
+
 Pie Chart
+
 Stacked Bar Chart
+
 Column Chart
+
 Map
 
 ## Conclusion:-
